@@ -1,0 +1,19 @@
+﻿@page "/datepicker/{paraValue}"
+
+<h1 class="text-center">DatePicker</h1>
+<br />
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-center">
+            <input type="date" />
+        </div>
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public string paraValue { get; set; }
+
+}
