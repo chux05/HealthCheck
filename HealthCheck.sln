@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheck.Server", "HealthCheck\Server\HealthCheck.Server.csproj", "{9218A4EC-17FB-4DD5-87A9-A0EB5850FD65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.Server", "HealthCheck\Server\HealthCheck.Server.csproj", "{9218A4EC-17FB-4DD5-87A9-A0EB5850FD65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheck.Client", "HealthCheck\Client\HealthCheck.Client.csproj", "{2C0BB29B-ABF0-4F0C-A8FE-6F2A906A94E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.Client", "HealthCheck\Client\HealthCheck.Client.csproj", "{2C0BB29B-ABF0-4F0C-A8FE-6F2A906A94E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheck.Shared", "HealthCheck\Shared\HealthCheck.Shared.csproj", "{47583DCC-3785-473E-905C-2DEF2EF28C2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.Shared", "HealthCheck\Shared\HealthCheck.Shared.csproj", "{47583DCC-3785-473E-905C-2DEF2EF28C2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
